@@ -6,6 +6,6 @@ Since I ran out of RAM in the Kaggle notebooks (formerly known as kernel) enviro
 after training in a local environment with 32GB RAM's and RTX 2060.
 
 ## Requirements
-TensorFlow 2.1.0
+tensorflow 2.1.0
 
-TensorFlow_addons 0.9.1
+tensorflow_addons 0.9.1
